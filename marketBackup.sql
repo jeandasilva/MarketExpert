@@ -204,7 +204,6 @@ COPY public.itensvenda (item_venda_id, venda_id, produto_id, quantidade, preco_u
 1	1	1	1	1200.00	1200.00	180.00
 \.
 
-
 --
 -- Data for Name: produtos; Type: TABLE DATA; Schema: public; Owner: postgres
 --
